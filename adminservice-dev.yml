@@ -38,6 +38,6 @@ app:
     config:
         keycloak:
             server-url: https://lemur-18.cloud-iam.com/auth/
-            realm: iNftfy
+            realm: iNFTFy
             clientId: adminclient
             client-secret: NdMqKeQPStj0sBXYnzgspZXCiz5hIe5p
